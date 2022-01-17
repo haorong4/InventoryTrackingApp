@@ -22,7 +22,7 @@
     
     http://127.0.0.1:8000/
 
-### Reference: some of the front-end design are learning from this tutorial:
+## Reference: Some of the front-end designs are learned from this tutorial:
 
     https://www.youtube.com/watch?v=mp7fnE45VDM&list=PLInvlTu9nmo8ttdXgiD4S7sHiHL2iRVY5&index=1
 ## Have fun :D
