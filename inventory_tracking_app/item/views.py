@@ -3,7 +3,6 @@ from django.http import HttpResponse
 from .models import Item
 from .forms import ItemForm
 import csv
-# Create your views here.
 
 def index(request):
     items = Item.objects.all()
